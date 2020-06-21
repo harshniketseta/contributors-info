@@ -1,0 +1,10 @@
+{
+  "name": "contributors-info",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.2.11",
+    "@types/mocha": "^7.0.2",
+    "typings": "^2.1.1"
+  }
+}
